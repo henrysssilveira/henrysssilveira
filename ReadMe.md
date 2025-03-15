@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=henrysssilveira&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henrysssilveira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![]("CSS does whatever it wants, and I pretend I understand it.")
-
 ---
 [![](https://visitcount.itsvg.in/api?id=henrysssilveira&icon=1&color=1)](https://visitcount.itsvg.in)
 
